@@ -6,9 +6,21 @@ Data set : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrit
 
 ## Tools used 
 Python 3.x
+
 SHAP
+
 Power BI
+
 Juypter Notebook
+
+## 🛠️ How to Run the Project
+
+1. Clone the Repository
+
+   git clone https://github.com/your-aarlapudi/HR-Analytics---Predict-Of-Employee-Attrition.git
+   cd hr-attrition-analysis
+
+
 
 
 
