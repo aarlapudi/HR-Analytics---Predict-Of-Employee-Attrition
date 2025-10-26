@@ -3,3 +3,12 @@ This HR Attrition project aims to analyze employee data to understand the key fa
 
 ## Source 
 Data set : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+## Tools used 
+Python 3.x
+SHAP
+Power BI 
+Juypter Notebook
+
+
+
