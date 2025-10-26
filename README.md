@@ -6,11 +6,8 @@ Data set : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrit
 
 ## Tools used 
 Python 3.x
-
 SHAP
-
 Power BI
-
 Juypter Notebook
 
 
